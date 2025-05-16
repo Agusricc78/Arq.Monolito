@@ -4,7 +4,7 @@ namespace Interfaces
 {
     public interface IAction
     {
-      abstract void MostrarCeveza(Cerveza cz);
+      abstract Task MostrarCeveza(Cerveza cz);
 
 
     }

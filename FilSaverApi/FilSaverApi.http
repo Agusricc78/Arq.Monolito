@@ -1,0 +1,6 @@
+@FilSaverApi_HostAddress = http://localhost:5101
+
+GET {{FilSaverApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

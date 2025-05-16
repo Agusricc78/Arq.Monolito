@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Execute", "Execute\Execute.csproj", "{B6B79733-11AF-4AA1-9847-68718AD2D89A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilSaverApi", "FilSaverApi\FilSaverApi.csproj", "{B8C5C1A7-5FBB-4EB5-B133-109ABEA17435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteFilSaver", "ClienteFilSaver\ClienteFilSaver.csproj", "{3522E6EB-4C29-4A98-AB3F-625897712701}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B6B79733-11AF-4AA1-9847-68718AD2D89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6B79733-11AF-4AA1-9847-68718AD2D89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6B79733-11AF-4AA1-9847-68718AD2D89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C5C1A7-5FBB-4EB5-B133-109ABEA17435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C5C1A7-5FBB-4EB5-B133-109ABEA17435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C5C1A7-5FBB-4EB5-B133-109ABEA17435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C5C1A7-5FBB-4EB5-B133-109ABEA17435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3522E6EB-4C29-4A98-AB3F-625897712701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3522E6EB-4C29-4A98-AB3F-625897712701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3522E6EB-4C29-4A98-AB3F-625897712701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3522E6EB-4C29-4A98-AB3F-625897712701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
